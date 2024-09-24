@@ -3,7 +3,10 @@ public class Main {
         System.out.println("Hello User...");
 
         String fullname = "Charles Mateo";
+        String idea = "Always watching...";
 
         System.out.println(fullname);
+        System.out.println(idea);
+
     }
 }
